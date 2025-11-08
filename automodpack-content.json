@@ -1,0 +1,522 @@
+{
+  "modpackName": "",
+  "automodpackVersion": "4.0.0-beta44",
+  "loader": "neoforge",
+  "loaderVersion": "21.1.192",
+  "mcVersion": "1.21.1",
+  "list": [
+    {
+      "file": "/mods/voicechat-neoforge-1.21.1-2.6.6.jar",
+      "size": "4870236",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "4d066b0fa64b0b46e676c22819fa6fa0a97daeaf",
+      "murmur": "1595767473"
+    },
+    {
+      "file": "/mods/notenoughanimations-neoforge-1.10.6-mc1.21.1.MPCX6s5C.jar",
+      "size": "839618",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "cbb5833153c362834911b20ae5665d913ded91c9",
+      "murmur": "1429015833"
+    },
+    {
+      "file": "/mods/no-telemetry-1.9.0.hg77g4Pw.jar",
+      "size": "95978",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "19545f40c8231fafdc183ea1c675ecbf3ecf025d",
+      "murmur": "3069376431"
+    },
+    {
+      "file": "/mods/coroutil-neoforge-1.21.0-1.3.8.jar",
+      "size": "63981",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "b044c51d00d60b5645a0c0890812935cd933555f",
+      "murmur": "3962119445"
+    },
+    {
+      "file": "/mods/exposure-neoforge-1.21.1-1.9.11.jar",
+      "size": "2179406",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "41b14add4442c0e155e2755d4bcfdfd644a39b55",
+      "murmur": "2581528395"
+    },
+    {
+      "file": "/mods/bellsandwhistles-0.4.7-1.21.1.gJ5afkVv.jar",
+      "size": "193619",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "85944080f8bd47dad64a8193a70662cd9ddbb200",
+      "murmur": "2624670150"
+    },
+    {
+      "file": "/mods/Chunky-NeoForge-1.4.23.fALzjamp.jar",
+      "size": "340572",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "ab0c74743a653020fe2dfc4986b43e893947f3e9",
+      "murmur": "233801764"
+    },
+    {
+      "file": "/mods/supermartijn642configlib-1.1.8-neoforge-mc1.21.jar",
+      "size": "207514",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "07452242e389975e8a88b97066f4bae6a4ebe574",
+      "murmur": "1923939184"
+    },
+    {
+      "file": "/mods/dynamic-fps-3.9.5+minecraft-1.21.0-neoforge.LQ3K71Q1.jar",
+      "size": "192872",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "270170fe01aa7fa45d0755cddb5a609bc857c10c",
+      "murmur": "3480389208"
+    },
+    {
+      "file": "/mods/create-1.21.1-6.0.6.jar",
+      "size": "18599196",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "07453cffbd20bdc5acc8ea7afb472bf55538958b",
+      "murmur": "2993802617"
+    },
+    {
+      "file": "/mods/rechiseledcreate-1.0.2a-neoforge-mc1.21.E6867niZ.jar",
+      "size": "658173",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "62ede9990220a5cb8397ee04c62fc2a4b0a25467",
+      "murmur": "3015254636"
+    },
+    {
+      "file": "/mods/AdvancedBackups-neoforge-1.21-3.7.1.jar",
+      "size": "335656",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "3d328e772b19d6d12f4b075cca2120bbcca2b09d",
+      "murmur": "3405086815"
+    },
+    {
+      "file": "/mods/toms_storage-1.21-2.2.2.jar",
+      "size": "839091",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "5eac00b45f56d69e2dd2e9077b97c4631131da0d",
+      "murmur": "2344883869"
+    },
+    {
+      "file": "/mods/mc-world-export-0.9.3.jar",
+      "size": "160294",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "dde8c5ec12da5f732487f66ba8f161e8b8f22c02",
+      "murmur": "502657388"
+    },
+    {
+      "file": "/mods/embeddium-1.0.15+mc1.21.1.jar",
+      "size": "1048745",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "56063839172a000d079272794bad366f2ad4cbbd",
+      "murmur": "3232050624"
+    },
+    {
+      "file": "/mods/carryon-neoforge-1.21.1-2.2.2.11.jar",
+      "size": "347647",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "081c4817a3059f06c387805c6504b315b554a2b0",
+      "murmur": "353007644"
+    },
+    {
+      "file": "/mods/createcontraptionterminals-1.21-1.2.0.gOPAFzp0.jar",
+      "size": "89346",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "b9b1af2c3642d51cac2129cea2805639c5affad6",
+      "murmur": "1343921258"
+    },
+    {
+      "file": "/mods/scholar-neoforge-1.21.1-1.1.9.fX4dIQCo.jar",
+      "size": "753192",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "c32b6f329da7ab14c593f18e551f910b2bc08798",
+      "murmur": "2648023336"
+    },
+    {
+      "file": "/mods/exposure_polaroid-neoforge-1.21.1-1.1.2.WEWiqYkW.jar",
+      "size": "358586",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "1576d16933cf50c3daeee2acd44a5982855ca432",
+      "murmur": "3102889947"
+    },
+    {
+      "file": "/mods/modernfix-neoforge-5.24.3+mc1.21.1.nmDcB62a.jar",
+      "size": "558771",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "f64b9458eea9c637a973f8319d5456e4961ea481",
+      "murmur": "1926810524"
+    },
+    {
+      "file": "/mods/ferritecore-7.0.2-neoforge.uXXizFIs.jar",
+      "size": "118911",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "7279fc52c32a033acc2864a9bcb018b2e04bbd03",
+      "murmur": "4148061765"
+    },
+    {
+      "file": "/mods/architectury-13.0.8-neoforge.jar",
+      "size": "584004",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "6ca11d3cc136bf69bb8f4d56982481eb85b5100b",
+      "murmur": "418634412"
+    },
+    {
+      "file": "/mods/watut-neoforge-1.21.0-1.2.7.AtB5mHky.jar",
+      "size": "432269",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "07cfb8fb1269f1eae1056492912e3544be979f62",
+      "murmur": "1526633991"
+    },
+    {
+      "file": "/mods/rechiseled-1.1.6a-neoforge-mc1.21.B0g2vT6l.jar",
+      "size": "3484553",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "26e4487b4e4441702a984c12af5e521b4b1b0bef",
+      "murmur": "3132790997"
+    },
+    {
+      "file": "/mods/enhancedgroups-neoforge-1.21.1-1.21.1-1.7.0.jar",
+      "size": "179857",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "109e602ee805ca10945f3ddbf8756500d8b584e5",
+      "murmur": "887039733"
+    },
+    {
+      "file": "/mods/forgified-fabric-api-0.115.6+2.1.4+1.21.1.Aqlf1Shp.jar",
+      "size": "5578066",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "f98335548ab3d6592912535c5703f18ab153c10d",
+      "murmur": "4165732076"
+    },
+    {
+      "file": "/mods/DistantHorizons-2.3.6-b-1.21.1-fabric-neoforge.jar",
+      "size": "25477119",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "e8a97b52e89bf96f67af547cda3bc6b15f5ceb73",
+      "murmur": "3112166184"
+    },
+    {
+      "file": "/mods/creategoggles-1.21.1-6.1.1-[NEOFORGE].L1RT5SJc.jar",
+      "size": "180932",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "e0285c31a2d2501439264c33c965409c422cd5b1",
+      "murmur": "3031315408"
+    },
+    {
+      "file": "/mods/entityculling-neoforge-1.9.3-mc1.21.1.NNAgCjsB.jar",
+      "size": "474485",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "dffecdb172ec6fefb27e68ebd7192b2416d56da9",
+      "murmur": "1050447774"
+    },
+    {
+      "file": "/mods/Clumps-neoforge-1.21.1-19.0.0.1.Wnxd13zP.jar",
+      "size": "18382",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "fa2576297c7bd12b28aa7070e8141792bd66da4c",
+      "murmur": "2871381177"
+    },
+    {
+      "file": "/mods/UniLib-1.2.0+1.21.1-neoforge.jar",
+      "size": "1554796",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "6d344d22b58267714328cbf13d9e69587936de84",
+      "murmur": "1332218820"
+    },
+    {
+      "file": "/mods/kotlinforforge-5.10.0-all.jar",
+      "size": "6730190",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "a86a436cb7ffd0509750ba7b078fe88143da1ea6",
+      "murmur": "2628537430"
+    },
+    {
+      "file": "/mods/create-track-map-2.0+mc1.21.1-neoforge.jar",
+      "size": "3561774",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "2d15de892d677913d1584f89f4df0927ac25a312",
+      "murmur": "682974273"
+    },
+    {
+      "file": "/mods/reforgedplaymod-1.21.1-0.3.jar",
+      "size": "17406874",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "0e7d8794fb81756e58d8559fc3ab88abc9b6d511",
+      "murmur": "198025056"
+    },
+    {
+      "file": "/mods/sootychimneys-neoforge-1.3.3.b3w1XM9H.jar",
+      "size": "175513",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "e3439125c1e10d08dd7a53152f21cc5028dda102",
+      "murmur": "639263566"
+    },
+    {
+      "file": "/mods/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.uEfK2CXF.jar",
+      "size": "292088",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "e739d69b2de31ca8c0cb4691ab08e823f153bc44",
+      "murmur": "2532757003"
+    },
+    {
+      "file": "/mods/ImmediatelyFast-NeoForge-1.6.7+1.21.1.5ZwdcRci.jar",
+      "size": "254163",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "820e7b79c123d2a884410a6ab9882b0ae0e2d1a6",
+      "murmur": "421302474"
+    },
+    {
+      "file": "/mods/jei-1.21.1-neoforge-19.25.0.323.u6dRKJwZ.jar",
+      "size": "1505887",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "b38486570e5bbd6430f8abfd6af72bc9351be344",
+      "murmur": "538233199"
+    },
+    {
+      "file": "/mods/supermartijn642corelib-1.1.18a-neoforge-mc1.21.jar",
+      "size": "518643",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "21c75db63ca1d8b8972a94a71c9c7ec0549e1be0",
+      "murmur": "2435358669"
+    },
+    {
+      "file": "/mods/createrailwaysnavigator-neoforge-1.21.1-beta-0.8.4.jar",
+      "size": "3280785",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "195151d6374cc1e31b115140c096ea9b2747e68f",
+      "murmur": "3172765149"
+    },
+    {
+      "file": "/mods/Jade-1.21.1-NeoForge-15.10.3.jar",
+      "size": "725736",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "0c7e9b04e2481d26c9080dd5d32351490d1fed3a",
+      "murmur": "584149669"
+    },
+    {
+      "file": "/mods/polymorph-neoforge-1.1.0+1.21.1.tagwiZkJ.jar",
+      "size": "174972",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "84f8c539fa326dc723ae62b7a6916d6b01982d07",
+      "murmur": "2982501720"
+    },
+    {
+      "file": "/mods/LittleFrames_NEOFORGE_v1.4.6_mc1.21.1 (1).jar",
+      "size": "73562",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "e529042b0ae0ec896744c7a401e5fa9aad830eff",
+      "murmur": "1676663983"
+    },
+    {
+      "file": "/mods/bigcontraptions-neoforge-1.0.jv0UKGOX.jar",
+      "size": "5861",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "cf1af44de7042f26fce74549130e1eb7d937ced8",
+      "murmur": "3800873444"
+    },
+    {
+      "file": "/mods/worldedit-mod-7.3.8.1u6JkXh5.jar",
+      "size": "6222854",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "924fe181a29bd66be6783f6d589968ab0ee02250",
+      "murmur": "683807693"
+    },
+    {
+      "file": "/mods/watermedia-2.1.36.jar",
+      "size": "37858040",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "aaad859737065f7be2824973aa38a5fdb7456f9d",
+      "murmur": "1118881583"
+    },
+    {
+      "file": "/mods/journeymap-neoforge-1.21.1-6.0.0-beta.52.lfHFW1mp.jar",
+      "size": "3537576",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "bedf8c1dae0accd66ed869b703b7f3176b00cabf",
+      "murmur": "1809699205"
+    },
+    {
+      "file": "/mods/copycats-3.0.2+mc.1.21.1-neoforge.UT2M39wf.jar",
+      "size": "1790416",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "49344745546ad3ee7c3bfeb8f846abdffcf4e5a4",
+      "murmur": "1401112783"
+    },
+    {
+      "file": "/mods/CreativeCore_NEOFORGE_v2.13.13_mc1.21.1.jar",
+      "size": "1199290",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "8aa6b128a44e5a239e3878d55581e59fb7af6749",
+      "murmur": "1770170219"
+    },
+    {
+      "file": "/mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.PxQSWIcD.jar",
+      "size": "299353",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "02e9bc7ba28147cdf2d608ecf4f2c1eab34b4652",
+      "murmur": "474806553"
+    },
+    {
+      "file": "/mods/Jade-1.21.1-NeoForge-15.10.3.nvQzSEkH.jar",
+      "size": "725736",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "0c7e9b04e2481d26c9080dd5d32351490d1fed3a",
+      "murmur": "584149669"
+    },
+    {
+      "file": "/mods/modflared-1.2.2+release.81.jar",
+      "size": "72468",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "13739434e6b1819cb46404b54e12eb2f3c00cf31",
+      "murmur": "1048266886"
+    },
+    {
+      "file": "/mods/skinlayers3d-neoforge-1.9.2-mc1.21.1.zV5r3pPn.jar",
+      "size": "873849",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "c75d03796b22e70b3441f0cfa1b1b0a59d2ddd14",
+      "murmur": "1112641627"
+    },
+    {
+      "file": "/mods/appleskin-neoforge-mc1.21-3.0.7.EsAfCjCV.jar",
+      "size": "74100",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "8f76d97a7f61f8d61db6d84a83baf29a3bb56330",
+      "murmur": "1990142675"
+    },
+    {
+      "file": "/mods/Resourcify (1.21.1-neoforge)-1.7.4.RLzHAoZe.jar",
+      "size": "2544855",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "5a612657a04e5e1213a66c6bf6a4377c4b55a512",
+      "murmur": "485183972"
+    },
+    {
+      "file": "/mods/CraftPresence-2.7.0+1.21.1-neoforge.DFqQfIBR.jar",
+      "size": "2055636",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "53e252f44a2b5c2db8f1a54111ada2c84d6ae55c",
+      "murmur": "2878941791"
+    },
+    {
+      "file": "/mods/fusion-1.2.11b-neoforge-mc1.21.jar",
+      "size": "532221",
+      "type": "mod",
+      "editable": false,
+      "forceCopy": false,
+      "sha1": "b108468c6b58a63b2262c915ac73658badc5e81a",
+      "murmur": "1498468387"
+    }
+  ]
+}
